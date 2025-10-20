@@ -1,0 +1,239 @@
+{
+  "name_variations":[
+    {
+      "canonical":"VerdeNova Solutions",
+      "alternates":"Verdenova; Verde Nova",
+      "id":"D001"
+    },
+    {
+      "canonical":"EquiForests Ltd",
+      "alternates":"EquiForests; Equi Forests",
+      "id":"D002"
+    },
+    {
+      "canonical":"BlueCanyon Agro",
+      "alternates":"Blue Canyon Agro",
+      "id":"D003"
+    },
+    {
+      "canonical":"SteppeRestore",
+      "alternates":"Stepperestore; Steppe Restore LLC",
+      "id":"D004"
+    },
+    {
+      "canonical":"NorthernMethaneFix",
+      "alternates":"Northern Methane Fix",
+      "id":"D005"
+    },
+    {
+      "canonical":"CarbonRoots India",
+      "alternates":"Carbon Roots India",
+      "id":"D006"
+    },
+    {
+      "canonical":"AquaTerra Agro",
+      "alternates":"Aqua Terra Agro",
+      "id":"D007"
+    },
+    {
+      "canonical":"DeltaBiochar",
+      "alternates":"Delta Biochar Co",
+      "id":"D008"
+    },
+    {
+      "canonical":"SaharaGreen",
+      "alternates":"Sahara Green\"",
+      "id":"D009"
+    },
+    {
+      "canonical":"SteppeGasFix",
+      "alternates":"Steppe Gas Fix",
+      "id":"D010"
+    },
+    {
+      "canonical":"ValleyAgro",
+      "alternates":"Valley Agro",
+      "id":"D011"
+    },
+    {
+      "canonical":"AndesReforest",
+      "alternates":"Andes Reforest\"",
+      "id":"D012"
+    },
+    {
+      "canonical":"SierraWaters",
+      "alternates":"Sierra Waters Conservation",
+      "id":"D013"
+    },
+    {
+      "canonical":"HighlandAgro",
+      "alternates":"Highland Agro Ltd",
+      "id":"D014"
+    },
+    {
+      "canonical":"UrbanGreen",
+      "alternates":"Urban Green Labs",
+      "id":"D015"
+    }
+  ],
+  "numeric_issues":[
+    {
+      "column":"Hectares",
+      "row":0,
+      "value":"1,200",
+      "type":"comma_separated"
+    },
+    {
+      "column":"Hectares",
+      "row":3,
+      "value":"2,500",
+      "type":"comma_separated"
+    },
+    {
+      "column":"Hectares",
+      "row":5,
+      "value":"4,000",
+      "type":"comma_separated"
+    },
+    {
+      "column":"Hectares",
+      "row":8,
+      "value":"5,000",
+      "type":"comma_separated"
+    },
+    {
+      "column":"Hectares",
+      "row":11,
+      "value":"1,800",
+      "type":"comma_separated"
+    },
+    {
+      "column":"EstimatedAnnualCredits",
+      "row":0,
+      "value":"4,800",
+      "type":"comma_separated"
+    },
+    {
+      "column":"EstimatedAnnualCredits",
+      "row":1,
+      "value":"3,400",
+      "type":"comma_separated"
+    },
+    {
+      "column":"EstimatedAnnualCredits",
+      "row":3,
+      "value":"10,000",
+      "type":"comma_separated"
+    },
+    {
+      "column":"EstimatedAnnualCredits",
+      "row":5,
+      "value":"16,000",
+      "type":"comma_separated"
+    },
+    {
+      "column":"EstimatedAnnualCredits",
+      "row":6,
+      "value":"2,400",
+      "type":"comma_separated"
+    },
+    {
+      "column":"EstimatedAnnualCredits",
+      "row":8,
+      "value":"20,000",
+      "type":"comma_separated"
+    },
+    {
+      "column":"EstimatedAnnualCredits",
+      "row":9,
+      "value":"5,000",
+      "type":"comma_separated"
+    },
+    {
+      "column":"EstimatedAnnualCredits",
+      "row":10,
+      "value":"14,000",
+      "type":"comma_separated"
+    },
+    {
+      "column":"EstimatedAnnualCredits",
+      "row":11,
+      "value":"7,200",
+      "type":"comma_separated"
+    },
+    {
+      "column":"EstimatedAnnualCredits",
+      "row":12,
+      "value":"1,200",
+      "type":"comma_separated"
+    }
+  ],
+  "language_issues":[
+    {
+      "column":"InvestmentMandateText",
+      "row":0,
+      "snippet":"NorthStar busca financiar proyectos forestales en LATAM y \u00c1frica. Prefiere deuda sindicada o project..."
+    },
+    {
+      "column":"InvestmentMandateText",
+      "row":2,
+      "snippet":"Summit es un inversor focalizado en Asia para NbS y agroforestry. Prefiere coinversiones con DFIs y ..."
+    },
+    {
+      "column":"InvestmentMandateText",
+      "row":6,
+      "snippet":"VerdeVentures es un fondo de etapa temprana que apoya proyectos comunitarios en Sudam\u00e9rica. Tickets ..."
+    }
+  ],
+  "entity_references":{
+    "emails_mention_developers":[
+      {
+        "email_id":"E004",
+        "entity":"SteppeRestore",
+        "subject":"SteppeRestore survey dates"
+      },
+      {
+        "email_id":"E008",
+        "entity":"DeltaBiochar",
+        "subject":"DeltaBiochar pilot"
+      },
+      {
+        "email_id":"E009",
+        "entity":"SaharaGreen",
+        "subject":"SaharaGreen co-finance query"
+      },
+      {
+        "email_id":"E010",
+        "entity":"SteppeGasFix",
+        "subject":"SteppeGasFix follow-up"
+      },
+      {
+        "email_id":"E011",
+        "entity":"ValleyAgro",
+        "subject":"ValleyAgro AWD results"
+      },
+      {
+        "email_id":"E012",
+        "entity":"AndesReforest",
+        "subject":"AndesReforest land titles"
+      },
+      {
+        "email_id":"E014",
+        "entity":"AndesReforest",
+        "subject":"Quick Q re: P002 and P012"
+      },
+      {
+        "email_id":"E016",
+        "entity":"SteppeRestore",
+        "subject":"Sergey - passport for travel"
+      }
+    ],
+    "emails_mention_investors":[
+      {
+        "email_id":"E013",
+        "entity":"Triage Capital",
+        "subject":"Investor intro: Triage Capital"
+      }
+    ]
+  }
+}

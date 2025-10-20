@@ -1,0 +1,155 @@
+{
+  "D001": {
+    "canonical_name": "VerdeNova Solutions",
+    "alternate_names": [
+      "Verdenova",
+      "Verde Nova"
+    ],
+    "normalized_variants": [
+      "verdenova",
+      "verde nova"
+    ]
+  },
+  "D002": {
+    "canonical_name": "EquiForests Ltd",
+    "alternate_names": [
+      "EquiForests",
+      "Equi Forests"
+    ],
+    "normalized_variants": [
+      "equiforests",
+      "equi forests"
+    ]
+  },
+  "D003": {
+    "canonical_name": "BlueCanyon Agro",
+    "alternate_names": [
+      "Blue Canyon Agro"
+    ],
+    "normalized_variants": [
+      "bluecanyon",
+      "blue canyon"
+    ]
+  },
+  "D004": {
+    "canonical_name": "SteppeRestore",
+    "alternate_names": [
+      "Stepperestore",
+      "Steppe Restore LLC"
+    ],
+    "normalized_variants": [
+      "stepperestore",
+      "steppe restore"
+    ]
+  },
+  "D005": {
+    "canonical_name": "NorthernMethaneFix",
+    "alternate_names": [
+      "Northern Methane Fix"
+    ],
+    "normalized_variants": [
+      "northernmethanefix",
+      "northern methane fix"
+    ]
+  },
+  "D006": {
+    "canonical_name": "CarbonRoots India",
+    "alternate_names": [
+      "Carbon Roots India"
+    ],
+    "normalized_variants": [
+      "carbonroots india",
+      "carbon roots india"
+    ]
+  },
+  "D007": {
+    "canonical_name": "AquaTerra Agro",
+    "alternate_names": [
+      "Aqua Terra Agro"
+    ],
+    "normalized_variants": [
+      "aquaterra",
+      "aqua terra"
+    ]
+  },
+  "D008": {
+    "canonical_name": "DeltaBiochar",
+    "alternate_names": [
+      "Delta Biochar Co"
+    ],
+    "normalized_variants": [
+      "deltabiochar",
+      "delta biochar co"
+    ]
+  },
+  "D009": {
+    "canonical_name": "SaharaGreen",
+    "alternate_names": [
+      "Sahara Green\""
+    ],
+    "normalized_variants": [
+      "sahara green\"",
+      "saharagreen"
+    ]
+  },
+  "D010": {
+    "canonical_name": "SteppeGasFix",
+    "alternate_names": [
+      "Steppe Gas Fix"
+    ],
+    "normalized_variants": [
+      "steppe gas fix",
+      "steppegasfix"
+    ]
+  },
+  "D011": {
+    "canonical_name": "ValleyAgro",
+    "alternate_names": [
+      "Valley Agro"
+    ],
+    "normalized_variants": [
+      "valleyagro",
+      "valley"
+    ]
+  },
+  "D012": {
+    "canonical_name": "AndesReforest",
+    "alternate_names": [
+      "Andes Reforest\""
+    ],
+    "normalized_variants": [
+      "andes reforest\"",
+      "andesreforest"
+    ]
+  },
+  "D013": {
+    "canonical_name": "SierraWaters",
+    "alternate_names": [
+      "Sierra Waters Conservation"
+    ],
+    "normalized_variants": [
+      "sierra waters conservation",
+      "sierrawaters"
+    ]
+  },
+  "D014": {
+    "canonical_name": "HighlandAgro",
+    "alternate_names": [
+      "Highland Agro Ltd"
+    ],
+    "normalized_variants": [
+      "highland",
+      "highlandagro"
+    ]
+  },
+  "D015": {
+    "canonical_name": "UrbanGreen",
+    "alternate_names": [
+      "Urban Green Labs"
+    ],
+    "normalized_variants": [
+      "urbangreen",
+      "urban green labs"
+    ]
+  }
+}

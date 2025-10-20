@@ -1,0 +1,13 @@
+entity_1,entity_1_name,entity_2,entity_2_name,relationship_type,source_type,source_id
+D004,SteppeRestore,I006,Helios Infrastructure,mentioned_together,transcript,T004
+D005,NorthernMethaneFix,I008,Atlas Carbon Partners,mentioned_together,transcript,T005
+D008,DeltaBiochar,I009,GreenBridge Capital,mentioned_together,transcript,T008
+I001,NorthStar Climate Fund,D002,EquiForests Ltd,prior_interaction,investor_notes,I001
+I004,Zenith Impact,D009,SaharaGreen,prior_interaction,investor_notes,I004
+I005,BlueOak Investors,D009,SaharaGreen,prior_interaction,investor_notes,I005
+I006,Helios Infrastructure,D004,SteppeRestore,prior_interaction,investor_notes,I006
+I007,VerdeVentures,D007,AquaTerra Agro,prior_interaction,investor_notes,I007
+I008,Atlas Carbon Partners,D005,NorthernMethaneFix,prior_interaction,investor_notes,I008
+I010,LocalDev Bank,D006,CarbonRoots India,prior_interaction,investor_notes,I010
+I011,Pacific Impact Fund,D013,SierraWaters,prior_interaction,investor_notes,I011
+I012,EuroGreen Partners,D004,SteppeRestore,prior_interaction,investor_notes,I012

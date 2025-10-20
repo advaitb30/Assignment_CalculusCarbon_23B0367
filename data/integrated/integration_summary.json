@@ -1,0 +1,21 @@
+{
+  "integration_date": "2025-10-19T19:13:32.628827",
+  "source_datasets": {
+    "developers": 15,
+    "investors": 12,
+    "emails": 20,
+    "transcripts": 10
+  },
+  "integrated_tables": {
+    "master_entities": 27,
+    "enriched_projects": 15,
+    "unified_communications": 30,
+    "entity_relationships": 12
+  },
+  "data_quality": {
+    "total_entities": 27,
+    "developers": 15,
+    "investors": 12,
+    "communications_with_entities": 22
+  }
+}

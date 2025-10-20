@@ -1,0 +1,86 @@
+{
+  "I001": {
+    "canonical_name": "NorthStar Climate Fund",
+    "alternate_names": [],
+    "normalized_variants": [
+      "northstar climate fund"
+    ]
+  },
+  "I002": {
+    "canonical_name": "Triage Capital",
+    "alternate_names": [],
+    "normalized_variants": [
+      "triage"
+    ]
+  },
+  "I003": {
+    "canonical_name": "Summit Green Partners",
+    "alternate_names": [],
+    "normalized_variants": [
+      "summit green partners"
+    ]
+  },
+  "I004": {
+    "canonical_name": "Zenith Impact",
+    "alternate_names": [],
+    "normalized_variants": [
+      "zenith impact"
+    ]
+  },
+  "I005": {
+    "canonical_name": "BlueOak Investors",
+    "alternate_names": [],
+    "normalized_variants": [
+      "blueoak investors"
+    ]
+  },
+  "I006": {
+    "canonical_name": "Helios Infrastructure",
+    "alternate_names": [],
+    "normalized_variants": [
+      "helios infrastructure"
+    ]
+  },
+  "I007": {
+    "canonical_name": "VerdeVentures",
+    "alternate_names": [],
+    "normalized_variants": [
+      "verdeventures"
+    ]
+  },
+  "I008": {
+    "canonical_name": "Atlas Carbon Partners",
+    "alternate_names": [],
+    "normalized_variants": [
+      "atlas carbon partners"
+    ]
+  },
+  "I009": {
+    "canonical_name": "GreenBridge Capital",
+    "alternate_names": [],
+    "normalized_variants": [
+      "greenbridge"
+    ]
+  },
+  "I010": {
+    "canonical_name": "LocalDev Bank",
+    "alternate_names": [],
+    "normalized_variants": [
+      "localdev bank"
+    ]
+  },
+  "I011": {
+    "canonical_name": "Pacific Impact Fund",
+    "alternate_names": [],
+    "normalized_variants": [
+      "pacific impact fund"
+    ]
+  },
+  "I012": {
+    "canonical_name": "EuroGreen Partners",
+    "alternate_names": [],
+    "normalized_variants": [
+      "eurogreen partners"
+    ]
+  }
+}

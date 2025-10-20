@@ -1,0 +1,130 @@
+[
+  {
+    "transcript_id": "T001",
+    "developers": [
+      {
+        "entity_id": "D001",
+        "entity_name": "VerdeNova Solutions",
+        "matched_text": "Verdenova"
+      }
+    ],
+    "investors": []
+  },
+  {
+    "transcript_id": "T002",
+    "developers": [
+      {
+        "entity_id": "D002",
+        "entity_name": "EquiForests Ltd",
+        "matched_text": "EquiForests"
+      }
+    ],
+    "investors": []
+  },
+  {
+    "transcript_id": "T003",
+    "developers": [
+      {
+        "entity_id": "D003",
+        "entity_name": "BlueCanyon Agro",
+        "matched_text": "BlueCanyon Agro"
+      }
+    ],
+    "investors": []
+  },
+  {
+    "transcript_id": "T004",
+    "developers": [
+      {
+        "entity_id": "D004",
+        "entity_name": "SteppeRestore",
+        "matched_text": "SteppeRestore"
+      }
+    ],
+    "investors": [
+      {
+        "entity_id": "I006",
+        "entity_name": "Helios Infrastructure",
+        "matched_text": "Helios Infrastructure"
+      }
+    ]
+  },
+  {
+    "transcript_id": "T005",
+    "developers": [
+      {
+        "entity_id": "D005",
+        "entity_name": "NorthernMethaneFix",
+        "matched_text": "NorthernMethaneFix"
+      }
+    ],
+    "investors": [
+      {
+        "entity_id": "I008",
+        "entity_name": "Atlas Carbon Partners",
+        "matched_text": "Atlas Carbon Partners"
+      }
+    ]
+  },
+  {
+    "transcript_id": "T006",
+    "developers": [
+      {
+        "entity_id": "D006",
+        "entity_name": "CarbonRoots India",
+        "matched_text": "CarbonRoots India"
+      }
+    ],
+    "investors": []
+  },
+  {
+    "transcript_id": "T007",
+    "developers": [],
+    "investors": [
+      {
+        "entity_id": "I007",
+        "entity_name": "VerdeVentures",
+        "matched_text": "VerdeVentures"
+      }
+    ]
+  },
+  {
+    "transcript_id": "T008",
+    "developers": [
+      {
+        "entity_id": "D008",
+        "entity_name": "DeltaBiochar",
+        "matched_text": "DeltaBiochar"
+      }
+    ],
+    "investors": [
+      {
+        "entity_id": "I009",
+        "entity_name": "GreenBridge Capital",
+        "matched_text": "GreenBridge Capital"
+      }
+    ]
+  },
+  {
+    "transcript_id": "T009",
+    "developers": [
+      {
+        "entity_id": "D009",
+        "entity_name": "SaharaGreen",
+        "matched_text": "SaharaGreen"
+      }
+    ],
+    "investors": []
+  },
+  {
+    "transcript_id": "T010",
+    "developers": [
+      {
+        "entity_id": "D012",
+        "entity_name": "AndesReforest",
+        "matched_text": "AndesReforest"
+      }
+    ],
+    "investors": []
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "email_id": "E001",
+    "developers": [
+      {
+        "entity_id": "D001",
+        "entity_name": "VerdeNova Solutions",
+        "matched_text": "Verdenova"
+      }
+    ],
+    "investors": []
+  },
+  {
+    "email_id": "E002",
+    "developers": [
+      {
+        "entity_id": "D002",
+        "entity_name": "EquiForests Ltd",
+        "matched_text": "EquiForests"
+      }
+    ],
+    "investors": []
+  },
+  {
+    "email_id": "E004",
+    "developers": [
+      {
+        "entity_id": "D004",
+        "entity_name": "SteppeRestore",
+        "matched_text": "SteppeRestore"
+      }
+    ],
+    "investors": []
+  },
+  {
+    "email_id": "E008",
+    "developers": [
+      {
+        "entity_id": "D008",
+        "entity_name": "DeltaBiochar",
+        "matched_text": "DeltaBiochar"
+      }
+    ],
+    "investors": []
+  },
+  {
+    "email_id": "E009",
+    "developers": [
+      {
+        "entity_id": "D009",
+        "entity_name": "SaharaGreen",
+        "matched_text": "SaharaGreen"
+      }
+    ],
+    "investors": []
+  },
+  {
+    "email_id": "E010",
+    "developers": [
+      {
+        "entity_id": "D010",
+        "entity_name": "SteppeGasFix",
+        "matched_text": "SteppeGasFix"
+      }
+    ],
+    "investors": []
+  },
+  {
+    "email_id": "E011",
+    "developers": [
+      {
+        "entity_id": "D011",
+        "entity_name": "ValleyAgro",
+        "matched_text": "ValleyAgro"
+      }
+    ],
+    "investors": []
+  },
+  {
+    "email_id": "E012",
+    "developers": [
+      {
+        "entity_id": "D012",
+        "entity_name": "AndesReforest",
+        "matched_text": "AndesReforest"
+      }
+    ],
+    "investors": []
+  },
+  {
+    "email_id": "E013",
+    "developers": [],
+    "investors": [
+      {
+        "entity_id": "I002",
+        "entity_name": "Triage Capital",
+        "matched_text": "Triage Capital"
+      }
+    ]
+  },
+  {
+    "email_id": "E014",
+    "developers": [
+      {
+        "entity_id": "D012",
+        "entity_name": "AndesReforest",
+        "matched_text": "AndesReforest"
+      }
+    ],
+    "investors": []
+  },
+  {
+    "email_id": "E015",
+    "developers": [
+      {
+        "entity_id": "D002",
+        "entity_name": "EquiForests Ltd",
+        "matched_text": "EquiForests"
+      }
+    ],
+    "investors": []
+  },
+  {
+    "email_id": "E016",
+    "developers": [
+      {
+        "entity_id": "D004",
+        "entity_name": "SteppeRestore",
+        "matched_text": "SteppeRestore"
+      }
+    ],
+    "investors": []
+  }
+]

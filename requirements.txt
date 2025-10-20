@@ -1,0 +1,23 @@
+# Calculus Carbon Assignment - Requirements
+# Phase 1 & 2: Data Exploration, Cleaning, and Integration
+
+# Core Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+openpyxl>=3.1.0
+
+# Text Processing & Normalization
+unidecode>=1.3.6
+langdetect>=1.0.9
+
+# Fuzzy Matching & Entity Resolution
+rapidfuzz>=3.0.0
+
+# JSON handling (built-in)
+# datetime (built-in)
+# pathlib (built-in)
+# re (built-in)
+
+# Optional but recommended for better performance
+# numba>=0.57.0  # Faster numerical operations
+# python-dotenv>=1.0.0  # For environment variables in Phase 3

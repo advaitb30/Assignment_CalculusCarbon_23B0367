@@ -1,0 +1,236 @@
+{
+  "developers": {
+    "dataset": "developers",
+    "rows": 15,
+    "columns": 15,
+    "column_names": [
+      "DeveloperID",
+      "ProjectID",
+      "DeveloperName",
+      "AlternateNames",
+      "Country",
+      "ProjectType",
+      "Status",
+      "Hectares",
+      "EstimatedAnnualCredits",
+      "LandTenure",
+      "FPICStatus",
+      "PrimaryContactName",
+      "PrimaryContactEmail",
+      "LastContactSnippet",
+      "DocumentsNotes"
+    ],
+    "dtypes": {
+      "DeveloperID": "object",
+      "ProjectID": "object",
+      "DeveloperName": "object",
+      "AlternateNames": "object",
+      "Country": "object",
+      "ProjectType": "object",
+      "Status": "object",
+      "Hectares": "object",
+      "EstimatedAnnualCredits": "object",
+      "LandTenure": "object",
+      "FPICStatus": "object",
+      "PrimaryContactName": "object",
+      "PrimaryContactEmail": "object",
+      "LastContactSnippet": "object",
+      "DocumentsNotes": "object"
+    },
+    "missing_values": {
+      "Hectares": {
+        "count": 4,
+        "percentage": 26.67
+      },
+      "EstimatedAnnualCredits": {
+        "count": 3,
+        "percentage": 20.0
+      },
+      "FPICStatus": {
+        "count": 3,
+        "percentage": 20.0
+      }
+    },
+    "sample_records": [
+      {
+        "DeveloperID": "D001",
+        "ProjectID": "P001",
+        "DeveloperName": "VerdeNova Solutions",
+        "AlternateNames": "Verdenova; Verde Nova",
+        "Country": "Brazil",
+        "ProjectType": "ARR",
+        "Status": "Feasibility",
+        "Hectares": "1,200",
+        "EstimatedAnnualCredits": "4,800",
+        "LandTenure": "Community lease (3 ejidos)",
+        "FPICStatus": "2 of 3 completed",
+        "PrimaryContactName": "Ana Ribeiro",
+        "PrimaryContactEmail": "ana.ribeiro@verdenova.fake",
+        "LastContactSnippet": "Ana: 'We have completed two community consultations; the third is scheduled for late Sept. Feasibility due Q1 2026. Will upload FPIC scans.'",
+        "DocumentsNotes": "NDA signed 2025-08-20; FPIC draft v0.9 attached in data room; topo maps pending"
+      },
+      {
+        "DeveloperID": "D002",
+        "ProjectID": "P002",
+        "DeveloperName": "EquiForests Ltd",
+        "AlternateNames": "EquiForests; Equi Forests",
+        "Country": "Peru",
+        "ProjectType": "ARR",
+        "Status": "Feasibility",
+        "Hectares": "850",
+        "EstimatedAnnualCredits": "3,400",
+        "LandTenure": "Mixed private + communal",
+        "FPICStatus": "FPIC done",
+        "PrimaryContactName": "Diego Flores",
+        "PrimaryContactEmail": "diego.f@equiforests.fake",
+        "LastContactSnippet": "Diego: 'Parcel overlap caused 850 vs 830 confusion \u2014 ops to re-map. Field report coming.' (see E015).",
+        "DocumentsNotes": "Topo maps upload 2025-10-01; NDAs requested by investors; overlapping boundary note in legal file"
+      }
+    ]
+  },
+  "investors": {
+    "dataset": "investors",
+    "rows": 12,
+    "columns": 14,
+    "column_names": [
+      "InvestorID",
+      "FundName",
+      "RegionFocus",
+      "TicketSizeCurrency",
+      "TicketSizeMin",
+      "TicketSizeMax",
+      "SectorFocus",
+      "PreferredStructures",
+      "Restrictions",
+      "PrimaryContactName",
+      "PrimaryContactEmail",
+      "InvestmentMandateText",
+      "PriorInteractions",
+      "Notes"
+    ],
+    "dtypes": {
+      "InvestorID": "object",
+      "FundName": "object",
+      "RegionFocus": "object",
+      "TicketSizeCurrency": "object",
+      "TicketSizeMin": "object",
+      "TicketSizeMax": "object",
+      "SectorFocus": "object",
+      "PreferredStructures": "object",
+      "Restrictions": "object",
+      "PrimaryContactName": "object",
+      "PrimaryContactEmail": "object",
+      "InvestmentMandateText": "object",
+      "PriorInteractions": "object",
+      "Notes": "object"
+    },
+    "missing_values": {},
+    "sample_records": [
+      {
+        "InvestorID": "I001",
+        "FundName": "NorthStar Climate Fund",
+        "RegionFocus": "Global",
+        "TicketSizeCurrency": "USD",
+        "TicketSizeMin": "25",
+        "TicketSizeMax": "200",
+        "SectorFocus": "NbS, ARR, REDD+",
+        "PreferredStructures": "Debt, Project Finance",
+        "Restrictions": "No early-stage; requires offtake or insurance",
+        "PrimaryContactName": "Jake Porter",
+        "PrimaryContactEmail": "jake.porter@northstar.fake",
+        "InvestmentMandateText": "NorthStar busca financiar proyectos forestales en LATAM y \u00c1frica. Prefiere deuda sindicada o project finance. Not an offtaker and requires strong tenure and co-finance. Interested in projects 25\u2013200M USD. (Spanish note: 'prefiere due diligence local').",
+        "PriorInteractions": "Call 2025-09-12 (T002) asked about P002 hectares",
+        "Notes": "Requires local partner in Africa; will not underwrite below BB"
+      },
+      {
+        "InvestorID": "I002",
+        "FundName": "Triage Capital",
+        "RegionFocus": "Europe",
+        "TicketSizeCurrency": "USD",
+        "TicketSizeMin": "25",
+        "TicketSizeMax": "50",
+        "SectorFocus": "ARR, AWD",
+        "PreferredStructures": "Debt, Mezz",
+        "Restrictions": "Not offtaker; avoids credit-price-only monetisation",
+        "PrimaryContactName": "Lia Chen",
+        "PrimaryContactEmail": "lia@triage.fake",
+        "InvestmentMandateText": "Triage Capital mandates EUR/USD 25\u201350M ticket sizes, prefers debt or mezzanine. 'No offtake' noted in email. Will ask for 30-day exclusivity after NDA. (French: 'pas d'acheteur de cr\u00e9dits').",
+        "PriorInteractions": "NDA signed 2025-10-05 (E018); intro email 2025-09-29 (E013)",
+        "Notes": "Requests 30-day exclusivity post data review; legal prefers UK-law NDAs"
+      }
+    ]
+  },
+  "emails": {
+    "dataset": "emails",
+    "rows": 20,
+    "columns": 7,
+    "column_names": [
+      "EmailID",
+      "Date",
+      "From",
+      "To",
+      "Cc",
+      "Subject",
+      "Body"
+    ],
+    "dtypes": {
+      "EmailID": "object",
+      "Date": "object",
+      "From": "object",
+      "To": "object",
+      "Cc": "object",
+      "Subject": "object",
+      "Body": "object"
+    },
+    "missing_values": {
+      "Cc": {
+        "count": 16,
+        "percentage": 80.0
+      }
+    },
+    "sample_records": [
+      {
+        "EmailID": "E001",
+        "Date": "9/10/2025",
+        "From": "ana.ribeiro@verdenova.fake",
+        "To": "manan@calculus.fake",
+        "Cc": NaN,
+        "Subject": "Re: Verdenova - NDA",
+        "Body": "Hi Manan, please find attached the draft NDA for VerdeNova\u2019s ARR project in Mato Grosso, Brazil. We\u2019re finalising the FPIC documents next week, but the community consultations are already 70% complete. Once signed, we can share land parcel maps and preliminary biomass assessments. Best, Ana."
+      },
+      {
+        "EmailID": "E002",
+        "Date": "9/12/2025",
+        "From": "diego.f@equiforests.fake",
+        "To": "manan@calculus.fake",
+        "Cc": "investor-rel@triage.fake",
+        "Subject": "Intro and data room access",
+        "Body": "Dear Manan, sharing the link to our data room for EquiForests\u2019 community ARR program in the Ucayali region. The preliminary feasibility report and PP are included. Please let us know which investors you plan to reach out to \u2014 Triage was mentioned on your call. Diego."
+      }
+    ]
+  },
+  "transcripts": {
+    "dataset": "transcripts",
+    "rows": 10,
+    "columns": 2,
+    "column_names": [
+      "TranscriptID",
+      "TranscriptText"
+    ],
+    "dtypes": {
+      "TranscriptID": "object",
+      "TranscriptText": "object"
+    },
+    "missing_values": {},
+    "sample_records": [
+      {
+        "TranscriptID": "T001",
+        "TranscriptText": "Ana from VerdeNova joined the call to update us on their ARR project in Mato Grosso, Brazil. She mentioned they have already completed consultations with two of the three local communities, and the last one should wrap up by October. Their target area is around 1,200 hectares with expected credits of roughly 4,800 per year. Ana said the feasibility report should be finalized in Q1 2026. She also asked when Calculus could schedule a site visit to show the investors around the project area."
+      },
+      {
+        "TranscriptID": "T002",
+        "TranscriptText": "Diego from EquiForests discussed their community-based reforestation program in Peru\u2019s Ucayali region. There was some confusion between 850 and 830 hectares due to overlapping land parcels, which they are re-measuring. Julia from the investor side (NorthStar) asked about local community ownership and if the project is already registered with Verra. Manan explained that it\u2019s still in feasibility and the first issuance is expected by 2027. They agreed to share updated topo maps in a week."
+      }
+    ]
+  }
+}
